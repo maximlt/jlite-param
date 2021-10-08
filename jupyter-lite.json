@@ -20,12 +20,6 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.cf21702f9062a42069e0.js",
-        "name": "@pyviz/jupyterlab_pyviz",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
       },
