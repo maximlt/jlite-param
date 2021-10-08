@@ -1,0 +1,72 @@
+{
+  "jupyter-config-data": {
+    "appName": "JupyterLite",
+    "appUrl": "./lab",
+    "appVersion": "0.1.0-alpha.9",
+    "baseUrl": "./",
+    "faviconUrl": "./lab/favicon.ico",
+    "federated_extensions": [
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
+        "name": "@jupyter-widgets/jupyterlab-manager"
+      },
+      {
+        "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "@jupyterlab/fasta-extension",
+        "style": "./style"
+      },
+      {
+        "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "@jupyterlab/geojson-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
+        "name": "@telamonian/theme-darcula"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.145e469029155b53b350.js",
+        "name": "@timkpaine/jupyterlab_miami_nights"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.490fbd2bdf754b661d13.js",
+        "name": "bqplot"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
+        "name": "ipycanvas"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
+        "name": "jupyter-leaflet"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
+        "name": "jupyterlab-drawio",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.722ef6c4bed73383b578.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "jupyterlab-plotly"
+      }
+    ],
+    "fullLabextensionsUrl": "./lab/extensions",
+    "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
+    "fullStaticUrl": "./lab/build",
+    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
+    "settingsUrl": "./lab/build/schemas",
+    "themesUrl": "./lab/build/themes"
+  },
+  "jupyter-lite-schema-version": 0
+}

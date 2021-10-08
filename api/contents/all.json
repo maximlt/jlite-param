@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.713832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:11:32.481368Z",
+      "mimetype": null,
+      "name": "javascript.ipynb",
+      "path": "javascript.ipynb",
+      "size": 2179,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.713832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:11:32.481368Z",
+      "mimetype": "image/png",
+      "name": "matplotlib.png",
+      "path": "matplotlib.png",
+      "size": 26389,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.717832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:11:32.481368Z",
+      "mimetype": null,
+      "name": "pyolite.ipynb",
+      "path": "pyolite.ipynb",
+      "size": 3526,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.713832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:12:25.713832Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.717832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:12:25.717832Z",
+      "mimetype": null,
+      "name": "pyolite kernel examples ",
+      "path": "pyolite kernel examples ",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-10-08T15:12:25.713832Z",
+      "format": null,
+      "last_modified": "2021-10-08T15:11:32.481368Z",
+      "mimetype": null,
+      "name": "p5.ipynb",
+      "path": "p5.ipynb",
+      "size": 3717,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-10-08T15:12:25.717832Z",
+  "format": "json",
+  "last_modified": "2021-10-08T15:12:25.717832Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
