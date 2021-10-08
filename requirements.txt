@@ -7,7 +7,3 @@ jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 jupyterlite==0.1.0a9
 theme-darcula
-param
-panel
-pandas
-aiohttp
