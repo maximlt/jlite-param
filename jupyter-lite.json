@@ -7,11 +7,6 @@
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
-        "extension": "./extension",
-        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
-        "name": "@jupyter-widgets/jupyterlab-manager"
-      },
-      {
         "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/fasta-extension",
@@ -21,6 +16,12 @@
         "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.cf21702f9062a42069e0.js",
+        "name": "@pyviz/jupyterlab_pyviz",
         "style": "./style"
       },
       {
@@ -35,30 +36,9 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.490fbd2bdf754b661d13.js",
-        "name": "bqplot"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
-        "name": "ipycanvas"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
-        "name": "jupyter-leaflet"
-      },
-      {
-        "extension": "./extension",
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
         "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.722ef6c4bed73383b578.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "jupyterlab-plotly"
       }
     ],
     "fullLabextensionsUrl": "./lab/extensions",
